@@ -2,7 +2,16 @@
 
 Репозиторий содержит презентации с выступлений.
 
-[_TOC_]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Meetups](#meetups)
+- [Podlodka Techlead Crew 2 сезон: Доклад: Проектируем APIs правильно / Дмитрий Годына (Netcracker)](#podlodka-techlead-crew-2-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC-apis-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE--%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B3%D0%BE%D0%B4%D1%8B%D0%BD%D0%B0-netcracker)
+- [Netcracker Billing&Rating DevTalks: Go Memory Management In Depth](#netcracker-billingrating-devtalks-go-memory-management-in-depth)
+- [Netcracker Billing&Rating DevTalks: Go Runtime In Depth](#netcracker-billingrating-devtalks-go-runtime-in-depth)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Podlodka Techlead Crew 2 сезон: Доклад: Проектируем APIs правильно / Дмитрий Годына (Netcracker)
 
@@ -35,7 +44,7 @@
 Запись доступна только в корпоративной сети. Слайды доступны [тут](nc_go_memory/cb_memory.pdf).
 
 # Netcracker Billing&Rating DevTalks: Go Runtime In Depth
-           
+
 19 марта 2021.
 
 Теги:
